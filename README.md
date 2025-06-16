@@ -25,7 +25,18 @@ Primary Font: Poppins, Medium (500), 16px <br />
 Headings: Circular, Bold (700), 24px-32px <br />
 Secondary Text: Circular, Book (400), 14px 
 
-## UI Component Patterns
+# Project Roles and Responsibilities
+Role &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Responsibilities <br />
+Project Manager	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Oversees timeline, coordinates team, manages deliverables <br />
+Frontend Developers	&nbsp; | Implements UI components, ensures responsive design <br />
+Backend Developers &nbsp;	&nbsp; | Builds APIs, manages database, implements business logic <br />
+Designers &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp;	&nbsp; &nbsp;	&nbsp; &nbsp;	&nbsp; |	Creates mockups, maintains design system, ensures UX quality <br />
+QA/Testers &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp;	&nbsp; &nbsp;	&nbsp; &nbsp;	&nbsp;|	Writes test cases, performs testing, reports bugs <br />
+DevOps Engineers &nbsp; &nbsp; &nbsp;	&nbsp; |	Manages deployment, CI/CD pipeline, server infrastructure <br />
+Product Owner &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp;	&nbsp; | Defines requirements, prioritises features, represents stakeholders <br />
+Scrum Master &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp;	&nbsp; &nbsp; |	Facilitates agile processes, removes blockers, organises meetings
+
+# UI Component Patterns
 ### Planned Components
 **Navbar**
 * Logo
